@@ -1,2 +1,3 @@
 # illustration_repo_images
-Better way to host images for my illustrations
+Public repository to hold my illustrations
+Easiest way for hosting them for src links on website + other sites
